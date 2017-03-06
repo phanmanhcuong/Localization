@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Localization</string>
+    <string name="btn_havefun">Have Fun</string>
+    <string name="btn_dost">Do Something</string>
+    <string name="btn_clickhere">Click here</string>
+    <string name="btn_surprise">Suprise</string>
+</resources>

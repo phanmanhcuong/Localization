@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="btn_havefun">楽しく</string>
+    <string name="btn_dost">何をしましょう</string>
+    <string name="btn_clickhere">ここを押して</string>
+    <string name="btn_surprise">驚く</string>
+</resources>
